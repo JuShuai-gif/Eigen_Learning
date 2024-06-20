@@ -33,6 +33,9 @@ include_directories(
 
 add_executable(ch1_test ch1_test.cpp)  #编译第一章
 
+
+add_executable(test test.cpp)  #编译第一章
+
 #add_executable(chapter2_test chapter2_test.cpp)  #编译第二章
 
 
